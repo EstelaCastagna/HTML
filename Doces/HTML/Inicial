@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Doces Japoneses</title>
+</head>
+<body>
+<link rel="stylesheet" href="\Estela_Biblioteca\Outros\CSS\Doces.css" media="screen"/>
+<ul>
+    <li><a href="http://localhost:63342/Estela/Estela_Biblioteca/HTML/Aula.html?_ijt=akam7viaq7daraibaf0iucpdv3&_ij_reload=RELOAD_ON_SAVE">Início</a></li>
+    <li><a href="#news">Novidades</a></li>
+    <li><a href="#contact">Contato</a></li>
+    <li style="float:right"><a class="active" href="http://localhost:63342/Estela/Estela_Biblioteca/HTML/Login.html?_ijt=a7c5oj0rtujt1gfhpc0gl71gfl&_ij_reload=RELOAD_ON_SAVE">Login</a></li>
+</ul>
+<center>
+<div>
+
+</div>
+</center>
+</body>
+</html>
