@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Doces Japoneses</title>
+</head>
+<body>
+<link rel="stylesheet" href="\Estela_Biblioteca\Outros\CSS\Doces.css" media="screen"/>
+<script type="text/javascript" src="\Estela_Biblioteca\Outros\JS\Doces.js"></script>
+
+<ul>
+
+    <li><a href="http://localhost:63342/Estela/Estela_Biblioteca/HTML/Aula.html?_ijt=akam7viaq7daraibaf0iucpdv3&_ij_reload=RELOAD_ON_SAVE">Início</a></li>
+    <li><a href="#news">Novidades</a></li>
+    <li><a href="#contact">Contato</a></li>
+
+</ul>
+<center>
+    <div>
+        <h2>CADASTRO</h2>
+
+        <form action="/action_page.php">
+            <label for="username">Usuário:</label><br>
+            <input type="text" id="username" name="username"><br>
+            <label for="pwd">Senha:</label><br>
+            <input type="password" id="pwd" name="pwd"><br><br>
+            <button type="button" onclick="validarCadastro()">Cadastrar</button>
+        </form>
+
+        <p>Ir ao Login: <a href="http://localhost:63342/Estela/Estela_Biblioteca/HTML/Login.html?_ijt=nnvpu8eogsk36el4md5eqidj9j&_ij_reload=RELOAD_ON_SAVE">Login</a>
+        </p>
+    </div>
+</center>
+</body>
+</html>
