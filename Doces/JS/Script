@@ -1,0 +1,21 @@
+function validarLogin(){
+ var inputLetra = document.getElementById("username").value;
+  if(isNaN(inputLetra)){
+  alert("Login Efetuado!");}
+  else{
+  alert("Apenas letras são permitidas!");}
+}
+
+function validarCadastro(){
+ var inputLetra = document.getElementById("username").value;
+  if(isNaN(inputLetra)){
+  alert("Cadastro Efetuado!");}
+  else{
+  alert("Apenas letras são permitidas! Tente novamente.");}
+}
+
+function entrarLogin(){
+ var matriz = new Array [2]
+ matriz [0] = "Estela"
+ matriz [1] = "1234"
+ }
